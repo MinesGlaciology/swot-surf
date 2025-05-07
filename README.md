@@ -1,3 +1,3 @@
 # SWOT SURF
 
-Repository to investegate Whillans Ice Plain slip events.
+Repository to investegate SWOT near coastlines
