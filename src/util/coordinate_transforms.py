@@ -3,7 +3,7 @@
 # 03 May 2025
 
 
-# Utility functions for SWOT
+# Utility functions for coordinate transformations
 
 # Imports
 from pyproj import CRS, Transformer

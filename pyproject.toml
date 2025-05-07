@@ -5,9 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "cartopy>=0.24.1",
+    "earthaccess>=0.14.0",
+    "h5netcdf>=1.6.1",
     "ipykernel>=6.29.5",
+    "netcdf4>=1.7.2",
     "pre-commit>=4.2.0",
     "pyproj>=3.7.1",
+    "pyshp>=2.3.1",
+    "rasterio>=1.4.3",
     "ruff>=0.11.8",
     "xarray>=2025.4.0",
 ]
@@ -21,4 +27,3 @@ package-dir = {"" = "src"}
 
 [tool.setuptools.packages.find]
 where = ["src"]
-
